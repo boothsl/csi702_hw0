@@ -1,0 +1,5 @@
+/home/sbooth/CLionProjects/hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sbooth/CLionProjects/hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sbooth/CLionProjects/hw1/cmake-build-debug/CMakeFiles/benchmark-blas.dir
+/home/sbooth/CLionProjects/hw1/cmake-build-debug/CMakeFiles/benchmark-blocked.dir
+/home/sbooth/CLionProjects/hw1/cmake-build-debug/CMakeFiles/benchmark-naive.dir

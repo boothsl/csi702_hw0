@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -std=gnu99 -O3 -g  -rdynamic CMakeFiles/benchmark-blas.dir/dgemm-blas.c.o CMakeFiles/benchmark-blas.dir/benchmark.c.o  -o benchmark-blas -lrt -lmkl_intel_lp64 -lmkl_sequential -lmkl_core -lpthread -lm -ldl 

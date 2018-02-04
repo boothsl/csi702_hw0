@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sbooth/CLionProjects/hw1/benchmark.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+float.h
+-
+math.h
+-
+sys/time.h
+-
+time.h
+-
+
+/home/sbooth/CLionProjects/hw1/dgemm-blas.c
+

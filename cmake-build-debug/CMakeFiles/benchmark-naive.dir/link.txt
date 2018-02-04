@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -std=gnu99 -O3 -g  -rdynamic CMakeFiles/benchmark-naive.dir/dgemm-naive.c.o CMakeFiles/benchmark-naive.dir/benchmark.c.o  -o benchmark-naive -lrt -lmkl_intel_lp64 -lmkl_sequential -lmkl_core -lpthread -lm -ldl 
