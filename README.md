@@ -1,2 +1,2 @@
-# csi702_hw0
+# csi702_hw1
 Improving matrix-matrix multiply
